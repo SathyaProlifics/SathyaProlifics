@@ -18,7 +18,6 @@ I design and deliver scalable platforms for:
 - 🔹 **Current Role:** IT Consultant  
 - 🔹 **Experience:** 17+ years  
 - 🔹 **Domain:** Banking & Financial Services  
-- 🔹 **Open To:** Job opportunities (Architecture / Lead / Senior Engineering roles)  
 - 🔹 **Methodology:** Agile/Scrum, distributed team leadership
 
 ---
